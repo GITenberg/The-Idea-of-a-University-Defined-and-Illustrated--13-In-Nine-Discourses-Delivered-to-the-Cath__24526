@@ -1,0 +1,32 @@
+_repo: The-Idea-of-a-University-Defined-and-Illustrated--13-In-Nine-Discourses-Delivered-to-the-Cath__24526
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Newman, John Henry
+    aliases:
+    - Newman, John Henry, Cardinal
+    - Newman, J. H. (John Henry)
+    birthdate: 1801
+    deathdate: 1890
+    gutenberg_agent_id: '8264'
+    url: http://www.gutenberg.org/2009/agents/8264
+    wikipedia: http://en.wikipedia.org/wiki/John_Henry_Newman
+description: ''
+gutenberg_issued: '2008-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24526'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Universities and colleges'
+- !lcsh 'Education, Higher'
+- !lcc 'LB'
+title: "The Idea of a University Defined and Illustrated\r\nIn Nine Discourses Delivered\
+  \ to the Catholics of Dublin"
+url: http://www.gutenberg.org/ebooks/24526
