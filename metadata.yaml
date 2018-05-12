@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8264
     wikipedia: http://en.wikipedia.org/wiki/John_Henry_Newman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24526#The-Idea-of-a-University-Defined-and-Illustrated--13-In-Nine-Discourses-Delivered-to-the-Cath_
 gutenberg_issued: '2008-02-05'
 gutenberg_type: Text
 identifiers:
